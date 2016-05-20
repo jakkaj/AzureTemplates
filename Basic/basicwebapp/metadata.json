@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Create basic Web App",
+  "description": "This template deploys an App Service Plan, creates a Web App in the App Service Plan",
+  "summary": "This template creates an App Service Plan, and Web App",
+  "githubUsername": "jakkaj",
+  "dateUpdated": "2016-05-20"
+}
