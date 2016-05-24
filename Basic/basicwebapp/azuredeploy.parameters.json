@@ -6,7 +6,7 @@
       "value": "GEN-UNIQUE-6"
     },
     "svcPlanSize": {
-      "value": "F1"
+      "value": "S3"
     },
     "svcPlanSku": {
       "value": "Standard"
