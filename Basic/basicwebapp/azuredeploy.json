@@ -10,7 +10,7 @@
     },
     "svcPlanSize": {
       "type": "string",
-      "defaultValue": "S3",
+      "defaultValue": "S7",
       "metadata": {
         "description": "The instance size of the App Service Plan."
       }
